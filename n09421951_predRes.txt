@@ -1,0 +1,120 @@
+1
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00000145.JPEG
+==> original:  sandbar, sand bar  confidence:0.99646681547165
+==> adversarial:  valley, vale  confidence:0.24806183576584
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796196342
+
+2
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00001524.JPEG
+==> original:  sandbar, sand bar  confidence:0.986532330513
+==> adversarial:  seashore, coast, seacoast, sea-coast  confidence:0.52928000688553
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796046012
+
+3
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00001767.JPEG
+==> original:  sandbar, sand bar  confidence:0.98345029354095
+==> adversarial:  sandbar, sand bar  confidence:0.39453104138374
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179621582
+
+4
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00002237.JPEG
+==> original:  sandbar, sand bar  confidence:0.28221124410629
+==> adversarial:  airliner  confidence:0.3120676279068
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796337574
+
+5
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00004857.JPEG
+==> original:  sandbar, sand bar  confidence:0.64266812801361
+==> adversarial:  submarine, pigboat, sub, U-boat  confidence:0.79488748311996
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179607026
+
+6
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00005236.JPEG
+==> original:  sandbar, sand bar  confidence:0.33975410461426
+==> adversarial:  amphibian, amphibious vehicle  confidence:0.49222052097321
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796207815
+
+7
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00005296.JPEG
+==> original:  sandbar, sand bar  confidence:0.47851979732513
+==> adversarial:  parachute, chute  confidence:0.65930342674255
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311791288979
+
+8
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00006540.JPEG
+==> original:  canoe  confidence:0.27892976999283
+==> adversarial:  canoe  confidence:0.61152791976929
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796001587
+
+9
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00006564.JPEG
+==> original:  sandbar, sand bar  confidence:0.26910078525543
+==> adversarial:  African elephant, Loxodonta africana  confidence:0.54868096113205
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796264805
+
+10
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00007262.JPEG
+==> original:  sandbar, sand bar  confidence:0.64592981338501
+==> adversarial:  lakeside, lakeshore  confidence:0.55498993396759
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311780570708
+
+11
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00007545.JPEG
+==> original:  sandbar, sand bar  confidence:0.9144172668457
+==> adversarial:  chain  confidence:0.17475132644176
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796000075
+
+12
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00008597.JPEG
+==> original:  sandbar, sand bar  confidence:0.87283289432526
+==> adversarial:  seashore, coast, seacoast, sea-coast  confidence:0.68666583299637
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311792706182
+
+13
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00009118.JPEG
+==> original:  sandbar, sand bar  confidence:0.31050869822502
+==> adversarial:  geyser  confidence:0.26067227125168
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796269227
+
+14
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00014394.JPEG
+==> original:  sandbar, sand bar  confidence:0.46653059124947
+==> adversarial:  promontory, headland, head, foreland  confidence:0.22531621158123
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796200298
+
+15
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00015575.JPEG
+==> original:  hay  confidence:0.18992654979229
+==> adversarial:  rapeseed  confidence:0.52097517251968
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311785250598
+
+16
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00015740.JPEG
+==> original:  seashore, coast, seacoast, sea-coast  confidence:0.78557366132736
+==> adversarial:  mountain tent  confidence:0.59405773878098
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795866173
+
+17
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00016086.JPEG
+==> original:  seashore, coast, seacoast, sea-coast  confidence:0.49900713562965
+==> adversarial:  seashore, coast, seacoast, sea-coast  confidence:0.92471027374268
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179609893
+
+18
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00016147.JPEG
+==> original:  sandbar, sand bar  confidence:0.72468155622482
+==> adversarial:  seashore, coast, seacoast, sea-coast  confidence:0.87468874454498
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796202462
+
+19
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00017102.JPEG
+==> original:  water bottle  confidence:0.05500540882349
+==> adversarial:  stupa, tope  confidence:0.16247075796127
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795715657
+
+20
+/home/public/imagenet12_oriImg/1_Ori/val/n09421951/ILSVRC2012_val_00018154.JPEG
+==> original:  geyser  confidence:0.79316180944443
+==> adversarial:  geyser  confidence:0.99997293949127
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795021995
+

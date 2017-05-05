@@ -1,0 +1,451 @@
+1
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020001.JPEG
+==> original:  tennis ball  confidence:0.98224365711212
+==> adversarial:  lemon  confidence:0.65444082021713
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311793834895
+
+2
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020002.JPEG
+==> original:  slot, one-armed bandit  confidence:0.27266103029251
+==> adversarial:  racer, race car, racing car  confidence:0.084216073155403
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311780303115
+
+3
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020003.JPEG
+==> original:  parachute, chute  confidence:0.99856692552567
+==> adversarial:  panpipe, pandean pipe, syrinx  confidence:0.97370582818985
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796488393
+
+4
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020004.JPEG
+==> original:  bow  confidence:0.075212329626083
+==> adversarial:  Cardigan, Cardigan Welsh corgi  confidence:0.090102225542068
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795617616
+
+5
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020005.JPEG
+==> original:  daisy  confidence:0.99935072660446
+==> adversarial:  daisy  confidence:0.74620920419693
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795849302
+
+6
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020006.JPEG
+==> original:  Angora, Angora rabbit  confidence:0.80214595794678
+==> adversarial:  Great Pyrenees  confidence:0.46547910571098
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796327707
+
+7
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020007.JPEG
+==> original:  cuirass  confidence:0.53770911693573
+==> adversarial:  gasmask, respirator, gas helmet  confidence:0.56781709194183
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796078684
+
+8
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020008.JPEG
+==> original:  bison  confidence:0.36107796430588
+==> adversarial:  chimpanzee, chimp, Pan troglodytes  confidence:0.25745716691017
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796060091
+
+9
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020009.JPEG
+==> original:  ibex, Capra ibex  confidence:0.52554386854172
+==> adversarial:  cliff, drop, drop-off  confidence:0.30774480104446
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795055109
+
+10
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020010.JPEG
+==> original:  Weimaraner  confidence:0.68530088663101
+==> adversarial:  vizsla, Hungarian pointer  confidence:0.90283024311066
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794625923
+
+11
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020011.JPEG
+==> original:  great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias  confidence:0.77208805084229
+==> adversarial:  tiger shark, Galeocerdo cuvieri  confidence:0.97545349597931
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311788005325
+
+12
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020012.JPEG
+==> original:  bannister, banister, balustrade, balusters, handrail  confidence:0.15289536118507
+==> adversarial:  breastplate, aegis, egis  confidence:0.12240855395794
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311784688022
+
+13
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020013.JPEG
+==> original:  tiger beetle  confidence:0.99091029167175
+==> adversarial:  long-horned beetle, longicorn, longicorn beetle  confidence:0.82791370153427
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032309374295579
+
+14
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020014.JPEG
+==> original:  kit fox, Vulpes macrotis  confidence:0.17325465381145
+==> adversarial:  black grouse  confidence:0.58816659450531
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795574448
+
+15
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020015.JPEG
+==> original:  dogsled, dog sled, dog sleigh  confidence:0.28987354040146
+==> adversarial:  dalmatian, coach dog, carriage dog  confidence:0.89125448465347
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796003798
+
+16
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020016.JPEG
+==> original:  Yorkshire terrier  confidence:0.35569626092911
+==> adversarial:  Italian greyhound  confidence:0.47570094466209
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794502563
+
+17
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020017.JPEG
+==> original:  palace  confidence:0.32772842049599
+==> adversarial:  organ, pipe organ  confidence:0.21202597022057
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311782813427
+
+18
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020019.JPEG
+==> original:  gyromitra  confidence:0.99246746301651
+==> adversarial:  thunder snake, worm snake, Carphophis amoenus  confidence:0.65236204862595
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796215564
+
+19
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020020.JPEG
+==> original:  airship, dirigible  confidence:0.85014361143112
+==> adversarial:  airliner  confidence:0.66709589958191
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179334013
+
+20
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020021.JPEG
+==> original:  teddy, teddy bear  confidence:0.40047398209572
+==> adversarial:  bonnet, poke bonnet  confidence:0.39875555038452
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796307973
+
+21
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020022.JPEG
+==> original:  shoji  confidence:0.96689403057098
+==> adversarial:  shoji  confidence:0.72287809848785
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311789393882
+
+22
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020023.JPEG
+==> original:  dalmatian, coach dog, carriage dog  confidence:0.99965524673462
+==> adversarial:  dalmatian, coach dog, carriage dog  confidence:0.61395078897476
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311793026693
+
+23
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020024.JPEG
+==> original:  mobile home, manufactured home  confidence:0.84842264652252
+==> adversarial:  trimaran  confidence:0.43641757965088
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311765619724
+
+24
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020025.JPEG
+==> original:  oystercatcher, oyster catcher  confidence:1
+==> adversarial:  oystercatcher, oyster catcher  confidence:0.81104123592377
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179438914
+
+25
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020026.JPEG
+==> original:  ground beetle, carabid beetle  confidence:0.36370357871056
+==> adversarial:  European fire salamander, Salamandra salamandra  confidence:0.31141602993011
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311790203759
+
+26
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020027.JPEG
+==> original:  shovel  confidence:0.064127169549465
+==> adversarial:  walking stick, walkingstick, stick insect  confidence:0.04206321388483
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795263082
+
+27
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020028.JPEG
+==> original:  caldron, cauldron  confidence:0.4821465909481
+==> adversarial:  Dutch oven  confidence:0.77843749523163
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179583769
+
+28
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020029.JPEG
+==> original:  lampshade, lamp shade  confidence:0.40449169278145
+==> adversarial:  table lamp  confidence:0.29882761836052
+==> mean absolute diff between the original and adversarial images[min/max]:  0.031987223724488
+
+29
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020030.JPEG
+==> original:  bikini, two-piece  confidence:0.26497992873192
+==> adversarial:  maillot, tank suit  confidence:0.318853110075
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311789081329
+
+30
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020031.JPEG
+==> original:  Blenheim spaniel  confidence:0.74643206596375
+==> adversarial:  Newfoundland, Newfoundland dog  confidence:0.16134712100029
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179182221
+
+31
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020032.JPEG
+==> original:  lens cap, lens cover  confidence:0.99999606609344
+==> adversarial:  lens cap, lens cover  confidence:0.93996047973633
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795970125
+
+32
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020033.JPEG
+==> original:  lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens  confidence:0.99569165706635
+==> adversarial:  Welsh springer spaniel  confidence:0.56910759210587
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179414284
+
+33
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020034.JPEG
+==> original:  chocolate sauce, chocolate syrup  confidence:0.4938713312149
+==> adversarial:  scorpion  confidence:0.46651992201805
+==> mean absolute diff between the original and adversarial images[min/max]:  0.0323117936861
+
+34
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020035.JPEG
+==> original:  wing  confidence:0.99999904632568
+==> adversarial:  wing  confidence:0.97069573402405
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796277535
+
+35
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020036.JPEG
+==> original:  notebook, notebook computer  confidence:0.13114674389362
+==> adversarial:  safety pin  confidence:0.21103522181511
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311769689448
+
+36
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020037.JPEG
+==> original:  teddy, teddy bear  confidence:0.92089086771011
+==> adversarial:  Maltese dog, Maltese terrier, Maltese  confidence:0.72150462865829
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311790842199
+
+37
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020038.JPEG
+==> original:  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon  confidence:0.9073634147644
+==> adversarial:  beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon  confidence:0.14401969313622
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796175212
+
+38
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020040.JPEG
+==> original:  mongoose  confidence:0.99624425172806
+==> adversarial:  weasel  confidence:0.24192205071449
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796181449
+
+39
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020041.JPEG
+==> original:  fig  confidence:0.86809015274048
+==> adversarial:  Granny Smith  confidence:0.15405650436878
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795329614
+
+40
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020042.JPEG
+==> original:  amphibian, amphibious vehicle  confidence:0.8859566450119
+==> adversarial:  seashore, coast, seacoast, sea-coast  confidence:0.16621638834476
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311787418919
+
+41
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020043.JPEG
+==> original:  borzoi, Russian wolfhound  confidence:0.67361181974411
+==> adversarial:  flat-coated retriever  confidence:0.085708968341351
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796055948
+
+42
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020044.JPEG
+==> original:  indigo bunting, indigo finch, indigo bird, Passerina cyanea  confidence:0.20109038054943
+==> adversarial:  bikini, two-piece  confidence:0.19747646152973
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795842228
+
+43
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020045.JPEG
+==> original:  golfcart, golf cart  confidence:0.29909563064575
+==> adversarial:  go-kart  confidence:0.72260653972626
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311793015756
+
+44
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020046.JPEG
+==> original:  centipede  confidence:0.95688819885254
+==> adversarial:  eft  confidence:0.88551473617554
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795455184
+
+45
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020047.JPEG
+==> original:  Rhodesian ridgeback  confidence:0.79222452640533
+==> adversarial:  Staffordshire bullterrier, Staffordshire bull terrier  confidence:0.56165426969528
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311792426744
+
+46
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020048.JPEG
+==> original:  loupe, jeweler's loupe  confidence:0.88585984706879
+==> adversarial:  stopwatch, stop watch  confidence:0.18047764897346
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796416881
+
+47
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020049.JPEG
+==> original:  American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier  confidence:0.97978341579437
+==> adversarial:  Ibizan hound, Ibizan Podenco  confidence:0.99790436029434
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795813627
+
+48
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020050.JPEG
+==> original:  American black bear, black bear, Ursus americanus, Euarctos americanus  confidence:0.7434995174408
+==> adversarial:  sloth bear, Melursus ursinus, Ursus ursinus  confidence:0.99939000606537
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311790242668
+
+49
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020051.JPEG
+==> original:  knee pad  confidence:0.071188397705555
+==> adversarial:  groom, bridegroom  confidence:0.30003756284714
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794320933
+
+50
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020052.JPEG
+==> original:  bald eagle, American eagle, Haliaeetus leucocephalus  confidence:0.99343878030777
+==> adversarial:  hornbill  confidence:0.84613943099976
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179580141
+
+51
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020053.JPEG
+==> original:  long-horned beetle, longicorn, longicorn beetle  confidence:0.45411515235901
+==> adversarial:  wolf spider, hunting spider  confidence:0.5815954208374
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796174817
+
+52
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020054.JPEG
+==> original:  kuvasz  confidence:0.22922928631306
+==> adversarial:  cairn, cairn terrier  confidence:0.25795209407806
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796227549
+
+53
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020055.JPEG
+==> original:  corkscrew, bottle screw  confidence:0.9234624505043
+==> adversarial:  harmonica, mouth organ, harp, mouth harp  confidence:0.18128234148026
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794783584
+
+54
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020056.JPEG
+==> original:  tiger beetle  confidence:0.22359812259674
+==> adversarial:  dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk  confidence:0.19588270783424
+==> mean absolute diff between the original and adversarial images[min/max]:  0.03231179516062
+
+55
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020057.JPEG
+==> original:  racket, racquet  confidence:0.24447001516819
+==> adversarial:  barbell  confidence:0.57092618942261
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311793630739
+
+56
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020058.JPEG
+==> original:  Scottish deerhound, deerhound  confidence:0.83722913265228
+==> adversarial:  Irish wolfhound  confidence:0.56050950288773
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032224564244212
+
+57
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020059.JPEG
+==> original:  tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui  confidence:0.99204587936401
+==> adversarial:  American alligator, Alligator mississipiensis  confidence:0.10206452012062
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796012571
+
+58
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020060.JPEG
+==> original:  lotion  confidence:0.16640277206898
+==> adversarial:  neck brace  confidence:0.15992942452431
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311789838125
+
+59
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020061.JPEG
+==> original:  triceratops  confidence:0.99999994039536
+==> adversarial:  plane, carpenter's plane, woodworking plane  confidence:0.07179943472147
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796210863
+
+60
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020062.JPEG
+==> original:  koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus  confidence:0.58329713344574
+==> adversarial:  Bouvier des Flandres, Bouviers des Flandres  confidence:0.38607150316238
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796024765
+
+61
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020063.JPEG
+==> original:  purse  confidence:0.085522659122944
+==> adversarial:  pinwheel  confidence:0.57776707410812
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795921256
+
+62
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020064.JPEG
+==> original:  wing  confidence:0.9994705915451
+==> adversarial:  sandbar, sand bar  confidence:0.98236775398254
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311792326935
+
+63
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020065.JPEG
+==> original:  Lakeland terrier  confidence:0.66683745384216
+==> adversarial:  wire-haired fox terrier  confidence:0.86178416013718
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796198344
+
+64
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020066.JPEG
+==> original:  bookshop, bookstore, bookstall  confidence:0.2624759376049
+==> adversarial:  book jacket, dust cover, dust jacket, dust wrapper  confidence:0.1005330234766
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795782793
+
+65
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020067.JPEG
+==> original:  spindle  confidence:0.31744769215584
+==> adversarial:  whiskey jug  confidence:0.29799795150757
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311784508765
+
+66
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020068.JPEG
+==> original:  beer bottle  confidence:0.26524293422699
+==> adversarial:  rubber eraser, rubber, pencil eraser  confidence:0.13004483282566
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032202800448027
+
+67
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020069.JPEG
+==> original:  grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus  confidence:0.26264435052872
+==> adversarial:  lakeside, lakeshore  confidence:0.12220551818609
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311789052915
+
+68
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020070.JPEG
+==> original:  Irish wolfhound  confidence:0.69157314300537
+==> adversarial:  Mexican hairless  confidence:0.1646536141634
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795957582
+
+69
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020071.JPEG
+==> original:  stone wall  confidence:0.99808478355408
+==> adversarial:  lakeside, lakeshore  confidence:0.77194958925247
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794697527
+
+70
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020072.JPEG
+==> original:  syringe  confidence:0.074439860880375
+==> adversarial:  iPod  confidence:0.15822191536427
+==> mean absolute diff between the original and adversarial images[min/max]:  0.031665087895896
+
+71
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020073.JPEG
+==> original:  pencil sharpener  confidence:0.22905541956425
+==> adversarial:  hatchet  confidence:0.27517682313919
+==> mean absolute diff between the original and adversarial images[min/max]:  0.031214505683199
+
+72
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020074.JPEG
+==> original:  pool table, billiard table, snooker table  confidence:0.13000540435314
+==> adversarial:  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM  confidence:0.40982392430305
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311793687194
+
+73
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020075.JPEG
+==> original:  container ship, containership, container vessel  confidence:0.99974662065506
+==> adversarial:  container ship, containership, container vessel  confidence:0.45243006944656
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796212772
+
+74
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020076.JPEG
+==> original:  white wolf, Arctic wolf, Canis lupus tundrarum  confidence:0.53491252660751
+==> adversarial:  coyote, prairie wolf, brush wolf, Canis latrans  confidence:0.55412286520004
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311794655035
+
+75
+/home/hsc38/workspace/adversarial/adversary_generator/Orig_val_noGray/ILSVRC2012_val_00020077.JPEG
+==> original:  carousel, carrousel, merry-go-round, roundabout, whirligig  confidence:0.92651212215424
+==> adversarial:  vault  confidence:0.31108355522156
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796457466
+
+76

@@ -1,0 +1,120 @@
+1
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00000075.JPEG
+==> original:  black grouse  confidence:0.99999332427979
+==> adversarial:  cock  confidence:0.40758097171783
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795849558
+
+2
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00000528.JPEG
+==> original:  black grouse  confidence:0.55079740285873
+==> adversarial:  goose  confidence:0.92856377363205
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796158946
+
+3
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00000885.JPEG
+==> original:  black grouse  confidence:0.99994844198227
+==> adversarial:  European gallinule, Porphyrio porphyrio  confidence:0.92382979393005
+==> mean absolute diff between the original and adversarial images[min/max]:  0.0323117960778
+
+4
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00001136.JPEG
+==> original:  black grouse  confidence:0.99923825263977
+==> adversarial:  European gallinule, Porphyrio porphyrio  confidence:0.80063563585281
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796190897
+
+5
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00001537.JPEG
+==> original:  black grouse  confidence:0.99690026044846
+==> adversarial:  oystercatcher, oyster catcher  confidence:0.95331579446793
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311790509633
+
+6
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00002664.JPEG
+==> original:  black grouse  confidence:0.99999272823334
+==> adversarial:  European gallinule, Porphyrio porphyrio  confidence:0.79255884885788
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796033701
+
+7
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00002838.JPEG
+==> original:  black grouse  confidence:0.9998465180397
+==> adversarial:  magpie  confidence:0.95586943626404
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311784798047
+
+8
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00002991.JPEG
+==> original:  black grouse  confidence:0.96804946660995
+==> adversarial:  flat-coated retriever  confidence:0.058942541480064
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796052737
+
+9
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00003122.JPEG
+==> original:  black grouse  confidence:0.98328649997711
+==> adversarial:  Cardigan, Cardigan Welsh corgi  confidence:0.1211314573884
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311780594701
+
+10
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00005447.JPEG
+==> original:  black grouse  confidence:0.98038595914841
+==> adversarial:  European gallinule, Porphyrio porphyrio  confidence:0.32921573519707
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795827939
+
+11
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00006094.JPEG
+==> original:  black grouse  confidence:0.99943828582764
+==> adversarial:  magpie  confidence:0.86207449436188
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796043056
+
+12
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00007126.JPEG
+==> original:  black grouse  confidence:0.91959178447723
+==> adversarial:  prairie chicken, prairie grouse, prairie fowl  confidence:0.14231404662132
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796208955
+
+13
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00007312.JPEG
+==> original:  black grouse  confidence:0.98323506116867
+==> adversarial:  American black bear, black bear, Ursus americanus, Euarctos americanus  confidence:0.35748016834259
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796251425
+
+14
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00007323.JPEG
+==> original:  black grouse  confidence:0.99951910972595
+==> adversarial:  toucan  confidence:0.42736080288887
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795869152
+
+15
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00010507.JPEG
+==> original:  black grouse  confidence:0.99869710206985
+==> adversarial:  African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus  confidence:0.76968348026276
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796221452
+
+16
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00010917.JPEG
+==> original:  black grouse  confidence:0.99992918968201
+==> adversarial:  ptarmigan  confidence:0.36689424514771
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796181914
+
+17
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00011621.JPEG
+==> original:  black grouse  confidence:0.99956077337265
+==> adversarial:  vulture  confidence:0.6595384478569
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311795979596
+
+18
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00012024.JPEG
+==> original:  black grouse  confidence:0.9999925494194
+==> adversarial:  hen  confidence:0.43826141953468
+==> mean absolute diff between the original and adversarial images[min/max]:  0.0323117965492
+
+19
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00012123.JPEG
+==> original:  black grouse  confidence:0.99999690055847
+==> adversarial:  Boston bull, Boston terrier  confidence:0.089512258768082
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796725711
+
+20
+/home/public/imagenet12_oriImg/1_Ori/val/n01795545/ILSVRC2012_val_00013607.JPEG
+==> original:  partridge  confidence:0.49048256874084
+==> adversarial:  cock  confidence:0.57966583967209
+==> mean absolute diff between the original and adversarial images[min/max]:  0.032311796211678
+
